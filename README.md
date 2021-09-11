@@ -1,6 +1,6 @@
 - :mortar_board: University of Toronto student 
-- :computer: avid coder and designer 
+- :computer: Avid coder and designer 
 - 📫 How to reach me: ovtownsend@gmail.com
 - 😄 Pronouns: she/her
-- Hobbies: hiking, philosophy, memes
+-  :camping: Hobbies: hiking, philosophy, memes
 - ⚡ Fun fact: there exists methods to prove that something is unprovable
