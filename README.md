@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! Welcome to my GitHub.
 
 - :mortar_board: University of Toronto student 
 - :computer: Avid coder and designer 
