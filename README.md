@@ -9,4 +9,4 @@ About me...
 - :female_sign: Pronouns: she/her
 -  :camping: Hobbies: hiking, philosophy, memes
 - ⚡ Fun fact: there exists methods to prove that something is unprovable
-- 📫 How to reach me: ovtownsend@gmail.com, https://www.linkedin.com/in/olivia-townsend/
+- 📫 How to reach me: ovtownsend@gmail.com
