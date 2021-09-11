@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my GitHub.
 
 Note to reader...
-- Both ATM and image classification projects are private repositories. Please contact me (email below) for full access.
+- Both ATM and image classification projects are private repositories. Please contact me (via email listed below) for full access.
 
 About me... 
 - :mortar_board: University of Toronto student 
