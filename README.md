@@ -1,3 +1,5 @@
+## Hi there!
+
 - :mortar_board: University of Toronto student 
 - :computer: Avid coder and designer 
 - 📫 How to reach me: ovtownsend@gmail.com
