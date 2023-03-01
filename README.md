@@ -4,7 +4,7 @@ Note to reader...
 - the image classification project repository is private. Please contact me (via email listed below) for full access.
 
 About me... 
-- :mortar_board: University of Toronto student 
+- :mortar_board: University of Toronto new grad
 - :computer: Avid coder and designer 
 - :female_sign: Pronouns: she/her
 -  :camping: Hobbies: hiking, philosophy, memes
