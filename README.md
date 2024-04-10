@@ -5,7 +5,7 @@ I am currently working as a Lead UX/UI Designer for the non-profit organization 
 My UX/UI Design Portfolio: https://www.oliviatownsend.me/
 
 Other facts about me...
-- :mortar_board: 2024-2026 Masters of Information (User Experience Design) student at UofT
+- :mortar_board: 2024-2026 Masters of Information (User Experience Design concentration) student at UofT
 - :computer: Current UX/UI designer and researcher, with previous coding experience. 
 - :female_sign: Pronouns: she/her
 -  :camping: Hobbies: hiking, philosophy, memes
