@@ -2,6 +2,8 @@
 
 I am currently working as a Lead UX/UI Designer for the non-profit organization "Philly Truce". With my team, we are building a robust incident-reporting mobile application for community monitors in Philadelphia. Our public GitHub: https://github.com/Philly-Truce
 
+My UX/UI Design Portfolio: https://www.oliviatownsend.me/
+
 Other facts about me...
 - :mortar_board: 2024-2026 Masters of Information (User Experience Design) student at UofT
 - :computer: Current UX/UI designer and researcher, with previous coding experience. 
