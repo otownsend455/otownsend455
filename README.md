@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my GitHub.
 
-I am currently working as a Lead UX/UI Designer for non-profit organization "Philly Truce". With my team, we are building an robust incident-reporting mobile application for community monitors in Philadelphia. Our public GitHub: https://github.com/Philly-Truce
+I am currently working as a Lead UX/UI Designer for the non-profit organization "Philly Truce". With my team, we are building a robust incident-reporting mobile application for community monitors in Philadelphia. Our public GitHub: https://github.com/Philly-Truce
 
 Other facts about me...
 - :mortar_board: 2024-2026 Masters of Information (User Experience Design) student at UofT
